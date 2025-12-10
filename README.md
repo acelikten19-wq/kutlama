@@ -1,4 +1,3 @@
-
 <html lang="tr" class="h-full">
  <head>
   <meta charset="UTF-8">
