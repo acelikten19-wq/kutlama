@@ -164,9 +164,7 @@
     <source src="https://assets.mixkit.co/sfx/preview/mixkit-theatre-curtain-open-1450.mp3" type="audio/mpeg">
   </audio>
 
-  <audio id="applauseSound">
-    <source src="https://assets.mixkit.co/sfx/preview/mixkit-audience-light-applause-354.mp3" type="audio/mpeg">
-  </audio>
+  <audio id="applauseSound" src="sounds/applause.mp3"></audio>
 
   <script>
     const startBtn = document.getElementById("startBtn");
