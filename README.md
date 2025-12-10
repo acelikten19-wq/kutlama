@@ -165,7 +165,7 @@
      🎊
     </div>
     <h1 class="main-message" id="mainMessage">Doğum Günün Kutlu Olsun!</h1>
-    <h2 class="recipient-name" id="recipientName">Pelin</h2>
+    <h2 class="recipient-name" id="recipientName">Burcu</h2>
     <p class="personal-message" id="personalMessage">Bu özel günde mutluluk ve sağlık dolu bir yıl geçirmen dileğiyle. En güzel dileklerimle! 🌟</p><button class="celebrate-button" id="celebrateBtn"> Kutlamayı Başlat 🎉 </button>
    </div>
   </div>
