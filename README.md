@@ -171,7 +171,7 @@
   </div>
   <script>
     const defaultConfig = {
-      recipient_name: "Pelin",
+      recipient_name: "Burcu",
       main_message: "Doğum Günün Kutlu Olsun!",
       personal_message: "Bu özel günde mutluluk ve sağlık dolu bir yıl geçirmen dileğiyle. En güzel dileklerimle! 🌟",
       background_gradient_start: "#E8B4F0",
