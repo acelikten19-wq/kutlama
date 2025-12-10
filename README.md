@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
@@ -34,7 +33,7 @@
             </p>
 
             <!-- KART BUTONU -->
-            -----<a href="https://sirketiniz.com/dogum-gunu-karti.html"
+            -----<a href="https://acelikten19-wq.github.io/kutlama/"
                style="display:inline-block;background:linear-gradient(135deg,#D946EF,#60A5FA);color:white;
                text-decoration:none;padding:14px 34px;border-radius:40px;font-size:18px;font-weight:bold;">
               🎁 Sürprizi Aç
